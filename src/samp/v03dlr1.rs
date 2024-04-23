@@ -8,7 +8,7 @@ use std::net::{Ipv4Addr, SocketAddr};
 
 pub const CNETGAME: usize = 0x2ACA24;
 pub const CINPUT: usize = 0x2ACA14;
-pub const CGAME: usize = 0x9FDC0;
+pub const CGAME: usize = 0x2ACA3C;
 pub const CGAME_SETCURSORMODE: usize = 0xA0530;
 pub const CGAME_PROCESSINPUTENABLING: usize = 0xA0410;
 pub const CDIALOG: usize = 0x2AC9E0;
